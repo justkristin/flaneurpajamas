@@ -1,4 +1,4 @@
-theme: DavideBri/Gesko
+remote-theme: DavideBri/Gesko
 plugins:
 - jekyll-remote-theme
 title: Flaneur Pajamas
