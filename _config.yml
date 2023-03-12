@@ -1,3 +1,5 @@
-remote-theme: DavideBri/Gesko
+theme: DavideBri/Gesko
+plugins:
+- jekyll-remote-theme
 title: Flaneur Pajamas
 author: Kristin Nielsen
