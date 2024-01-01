@@ -2,6 +2,7 @@
 title: "Towheads and Startups""
 date: 2023-03-11
 author: justkristin
+categories: stuff, bus, parker
 ---
 
 I have a "Résumé" ready. I am borrowing mine from Dorothy Parker.
