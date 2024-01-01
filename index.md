@@ -10,7 +10,7 @@ You don't have to spend all your time thinking about what you're doing, you just
 
 Steve wants reflections, so let's give him reflections. Clouds are free they come and go as they please. It's almost like something out of a fairytale book. I'm gonna add just a tiny little amount of Prussian Blue. It all happens automatically. This is a fantastic little painting.
 
-<ul>
+<ul>Site Contents
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
