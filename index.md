@@ -9,3 +9,11 @@ This is your world. We'll put some happy little leaves here and there. I started
 You don't have to spend all your time thinking about what you're doing, you just let it happen. It's a very cold picture, I may have to go get my coat. It’s about to freeze me to death. Let's put some happy little clouds in our world.
 
 Steve wants reflections, so let's give him reflections. Clouds are free they come and go as they please. It's almost like something out of a fairytale book. I'm gonna add just a tiny little amount of Prussian Blue. It all happens automatically. This is a fantastic little painting.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
