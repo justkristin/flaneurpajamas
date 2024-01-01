@@ -1,3 +1,12 @@
-theme: jekyll-theme-minimal
 title: Flaneur Pajamas
-author: Kristin Nielsen
+tagline: Site Tagline
+theme: jekyll-theme-minimal
+authors: 
+  justkristin:
+    display_name: Kristin Nielsen
+    about: Opsimath. Overthinker. Crone. Bibliophile. Woolgatherer. Pinko. Host to a divergent multitude. Easily fascinated and easily led. Gender-ambivalent & plumbing indifferent. Any/All. Grateful resident of Kumeyaay Nation lands.
+    tiktok: https://www.tiktok.com/@bkwyrm
+    instagram: https://www.instagram.com/bkwyrm/
+    twitter: https://www.twitter.com/justkristin
+    facebook: https://www.facebook.com/justkristin
+    bluesky: https://bsky.app/profile/justkristin.bsky.social

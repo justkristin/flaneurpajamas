@@ -1,6 +1,7 @@
 ---
 title: "Towheads and Startups""
 date: 2023-03-11
+author: justkristin
 ---
 
 I have a "Résumé" ready. I am borrowing mine from Dorothy Parker.
